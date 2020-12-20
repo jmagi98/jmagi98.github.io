@@ -65,11 +65,11 @@ layout: base
       {% for sec in l_col %}
         {% case sec %}
         {% when 'work' %}
-          {% include pro/resume/work.html %}
+          {% include pro/resume/education.html %}
         {% when 'volunteer' %}
           {% include pro/resume/volunteer.html %}
         {% when 'education' %}
-          {% include pro/resume/education.html %}
+          {% include pro/resume/work.html %}
         {% when 'awards' %}
           {% include pro/resume/awards.html %}
         {% when 'publications' %}
@@ -90,11 +90,11 @@ layout: base
       {% for sec in r_col %}
         {% case sec %}
         {% when 'work' %}
-          {% include pro/resume/work.html %}
+          {% include pro/resume/education.html %}
         {% when 'volunteer' %}
           {% include pro/resume/volunteer.html %}
         {% when 'education' %}
-          {% include pro/resume/education.html %}
+          {% include pro/resume/work.html %}
         {% when 'awards' %}
           {% include pro/resume/awards.html %}
         {% when 'publications' %}

@@ -2,102 +2,95 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://placehold.it/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
-  summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+  name: "Jack Maginnes"
+  label: "Senior CS Major at Georgia Tech"
+  picture: "../assets/img/profile.jpeg"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Jack Maginnes"
+      url: "https://www.linkedin.com/in/jack-maginnes-24b581130/"
+    - network: "Twitter"
+      username: "0xcalico"
+      url: "https://twitter.com/0xcalico"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Savvy Dating Game LLC"
+    position: "CTO and Full Stack Developer"
+    startDate: "2019-08-01"
     endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+      - "Lead a team of 7 engineers utilizing an agile methodology."
+      - "Develop features throughout the full tech stack, writing code in Swift and Node.js and using libraries such as Socket.IO."
+      - "Configure AWS architecture to be secure, scalable, and cost efficient, leveraging EC2 instances, ASGs, ELBs, and RDS."
+      - "Scaled to over 10,000 downloads and over 1,000 daily active users."
+  - company: "Nike Inc"
+    position: "Global Technology Intern"
+    startDate: "2020-06-01"
+    endDate: "2020-08-01"
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Updated microservices written in Scala."
+      - "Utilized Elasticsearch to search and parse large amounts of store data."
+      - "Delivered assigned tickets to production on a sprint to sprint basis."
+      - "Learned how to write production-grade code and work collaboratively in an Agile setting"
+  - company: "NCR Corp."
+    position: "Software Engineer Intern"
+    startDate: "2019-05-01"
+    endDate: "2019-08-01"
+    highlights:
+      - "Created a microservice in Java from the ground up with Spring Framework and PostgreSQL."
+      - "Crafted a CI/CD Pipeline for the service and deployed to GCP."
+      - "Learned about microservice architecture, API design methodology, and how to break down a long-term project into
+         sprints."
+  - company: "VF Corp."
+    position: "Cloud Engineer Intern"
+    startDate: "2018-06-01"
+    endDate: "2019-08-01"
+    highlights:
+      - "Wrote command line interface tools in Go using the Cobra library and the AWS SDK for Go."
+      - "Focused most closely on the following AWS Services: EC2, CloudFormation, S3, DynamoDB, and RDS."
+      - "Learned about large-scale cloud architecture and how it can be leveraged within a corporate setting."
+
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "Georgia Institute of Technology"
+    area: "Computer Science"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+    startDate: "2017-08-19"
+    endDate: "2021-05-17"
+    gpa: "3.4"
+projects:
+  - title: "Offensive Security Challenges"
+    summary: "Completed and submitted write-ups for various security related challenges on multiple platforms. Ranked in the top 15% on TryHackMe and `Hacker` rank on HackTheBox. Worked in a team setting for various CTFs including TAMUctf and CONfidence."
+  - title: "Game Hacking"
+    summary: "Wrote game hacks using Cheat Engine, C++ and the Windows API. Successfully injected .dlls to obtain unlimited health and ammo in games such as Counter Strike and Cube 2."
+  - title: "Arduino Projects"
+    summary: "Built various Arduino Projects including an RFID security system and Holiday Light Show"
+  - title: "GroupMe Ski Bot"
+    summary: "Scripted a GroupMe bot in Python utilizing the GroupMe Developer API. Bot is capable of giving weather and snow reports for various ski mountains. Utilizes Beautiful Soup library to scrape data off resort websites."
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "Languages"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
+      - "Java"
+      - "Python"
+      - "GoLang"
+      - "C/C++"
+      - "C#"
+      - "x86 Assembly"
+      - "Node.js"
+      - "Scala"
+      - "Swift"
+  - name: "Software"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
+      - "Ghidra"
+      - "GDB"
+      - "Binary Ninja"
+      - "Burp Suite"
+      - "Cuckoo"
+      - "Vim"
+  - name: "Technologies And Libraries"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "AWS"
+      - "GCP"
+      - "SQl"
+      - "Docker"
+      - "Kubernetes"
+      - "Spring"
+      - "Windows API"

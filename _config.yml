@@ -27,7 +27,6 @@ title:                 Calico's Blog
 description:           >
   Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
-
 # A shorter description for the sidebar.
 tagline:               A Blog for Subpar Security Engineers 
 
@@ -42,10 +41,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                calico 
+  email:               0xcalico@gmail.com 
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             0xcalico 
 
 # Add links to the sidebar.
 menu:
@@ -55,8 +54,6 @@ menu:
     url:               /projects/
   - title:             Résumé*
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -345,8 +342,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            0xcalico 
 
 # Used for facebook open graph
 # facebook:
@@ -355,11 +352,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:               calico  
+  links:
+    - https://twitter.com/0xcalico
+    - https://github.com/jmagi98
 
 
 # Plugin Configs
