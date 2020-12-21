@@ -26,8 +26,7 @@ things I have interacted with and felt were useful.
 ## Books
 ### General Pentesting
 - [The Hackers Playbook 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2) - Lays out security engagement in easy to implement 
-steps. The author provides various "plays" which are each intended to be use in certain
-situations one may find themselves in.
+steps. The author provides various "plays" which are each intended to be use in certain situations one may find themselves in.
 - [Gray Hat Hacking](https://www.amazon.com/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H/ref=sr_1_1?crid=21U0YDUSIGX3S&dchild=1&keywords=gray+hat+hacking&qid=1608520720&s=digital-text&sprefix=Gray+Hat+hac%2Cdigital-text%2C168&sr=1-1) - Covers a broad array of topics at a very base level. Good for learning a little about a lot.
 
 
@@ -35,8 +34,7 @@ situations one may find themselves in.
 - [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) - Short 25 page guide 
 designed to be a no bullshit reference guide.
 - [Practical Reverse Engineering: X86, X64, ARM, Windows Kernel, Reversing Tools, and Obfuscation](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) - 
-One of my personal favorites. Deep dives into assembly with examples and gives methodologies and tooling for
-reversing
+One of my personal favorites. Deep dives into assembly with examples and gives methodologies and tooling for reversing.
 - [The Ghidra Book: The Definitive Guide](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) - Similar to the IDA pro book, but specific to Ghidra. Great for those
 who want to get familiar with an industry level tool without paying the absurd IDA asking price.
 
@@ -73,9 +71,7 @@ exploitation is great for getting started on the topic.
 - [Jack Rhysider](https://www.youtube.com/user/tunnelsup) - More well known for his podcast Darknet Diaries, but runs a YouTube channel that focuses on various infosec topics.
 - [JackkTutorials](https://www.youtube.com/user/JackkTutorials) - Hasn't posted in a year, but makes informative pentesting videos.
 - [GuidedHacking](https://www.youtube.com/user/L4DL4D2EUROPE) - Cool channel that digs into game hacking. Ranges from using cheat engine to bypassing anti-cheat. Something for everyone.
-
-- All The Cons - DEFCON, BlackHat and most other security conferences post their talks online. Even if the topics are over your 
-head, I still recommend watching them and trying to absorb as much as you can.
+- All The Cons - DEFCON, BlackHat and most other security conferences post their talks online. Even if the topics are over your head, I still recommend watching them and trying to absorb as much as you can.
 
 ### Top Content Producers:
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - Posts replays of his Twitch livestreams which generally are bug bounty related.
@@ -88,7 +84,7 @@ head, I still recommend watching them and trying to absorb as much as you can.
 - [DEF CON Safe Mode: Finding and Exploiting Bugs in Multiplayer Game Engines by Jack Baker](https://www.youtube.com/watch?v=4weoWSzuCxs&ab_channel=DEFCONConference) - One of my favorite talks of all time. Runs through his reverse engineering research
 and some of the vulnerabilities he has found in popular game engines like Unity and Unreal.
 - [DEF CON 27: Intro to Hardware Hacking by Philippe Laulheret](https://www.youtube.com/watch?v=HuCbr2588-w&t=1793s&ab_channel=DEFCONConference) - A talk about getting into hardware, something I am hoping to dive into more in the future.
-- [Ghidra: Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc&t=589s&ab_channel=BlackHat) - Discusses the history and foundation of Ghidra
+- [Ghidra: Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc&t=589s&ab_channel=BlackHat) - Discusses the history and foundation of Ghidra.
 
 ## Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/) - Stories about hackers. Ranges from pentesters to crazy teenagers to nation-states.
@@ -100,11 +96,11 @@ and some of the vulnerabilities he has found in popular game engines like Unity 
 
 ## Practice
 - [TryHackMe](https://tryhackme.com/) - The best platform for learning pentesting techniques. Accessible information for beginners but a few more challenging machine for the
-more advanced
+more advanced.
 - [HackTheBox](https://www.hackthebox.eu/) - Pentesting challenges generally regarded as more difficult than THM. Also lots of smaller challenges in other areas like RE and web security.
 - [Portswigger Academy](https://portswigger.net/web-security) - Labs designed to learn web security vulnerabilities. Labs are fun and give you hands on expierence with Portswigger's main product, Burp Suite.
 - [Exploit Education](https://exploit.education/) - Virtual machines to practice binary exploitation. Good for all skill levels.
-- [pwnable.tw](https://pwnable.tw/) - More binary exploitation challenges
+- [pwnable.tw](https://pwnable.tw/) - More binary exploitation challenges.
 - [HackerOne CTF](https://ctf.hacker101.com/) - Web based CTF challenges. Cool because getting points builds your rep on HackerOne, and gets you invites to private programs.
 - [Holiday Hack](https://www.holidayhackchallenge.com/2020/) - My favorite challenge each year. Christmas themed CTF built into a video game. Stays live year round, but competition runs 2 weeks in Dec.
 - [crackme.one](https://crackmes.one/lasts) - RE challenges with a multitude of file formats.
