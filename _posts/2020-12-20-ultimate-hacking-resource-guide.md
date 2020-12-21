@@ -9,13 +9,14 @@ sitemap: false
 During the second semester of my Junior year (Jan 2020), I took an 'Intro to Information 
 Security' class. With little security knowledge, I had no idea what I was getting into.
 But after my first successful buffer overflow, I was hooked. For the following 11 months,
-I spent time digesting and working on security skills. Those skills helped me to land 
+I spent time reading, working on labs, and improving my security skills. Those skills helped me to land 
 a position as a security engineer which I will start next May upon graduating. 
-One of the things that I struggled with is where to get started. There are so many resources and 
-people trying to sell you their online class, and it's hard to pick out what is good and what is 
+
+One of the things that I struggled with was where to get started. There are so many resources and 
+everyone wants to sell you their online class. It's can be hard to pick out what is good and what is 
 bad. As someone who has consumed both the good and the bad, I decided to create
 my "Ultimate Hacking Resource Guide." This guide is intended to provide books, videos, labs, and more
-for those looking to start their journey. It covers a wide array of areas, from web security to 
+for those looking to start on their journey. It covers a wide array of topics, from web security to 
 binary exploitation to game hacking. This is not the beat-all-end-all guide, but a collection of my 
 things I have interacted with and felt were useful.
 
