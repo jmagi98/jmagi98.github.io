@@ -22,8 +22,11 @@ things I have interacted with and felt were useful.
 
 
 *This guide will be updated regularly, as I am still learning and discovering new material.* 
+LAST UPDATE: DEC 2020
 
 ## Books
+Currently, I am reading "Grey Hat C#" and "Advanced Penetration Testing: Hacking the World's Most Secure Networks". Here is my running list of all-time favorites
+
 ### General Pentesting
 - [The Hackers Playbook 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2) - Lays out security engagement in easy to implement 
 steps. The author provides various "plays" which are each intended to be use in certain situations one may find themselves in.
