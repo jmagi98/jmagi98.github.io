@@ -74,6 +74,8 @@ exploitation is great for getting started on the topic.
 - [Jack Rhysider](https://www.youtube.com/user/tunnelsup) - More well known for his podcast Darknet Diaries, but runs a YouTube channel that focuses on various infosec topics.
 - [JackkTutorials](https://www.youtube.com/user/JackkTutorials) - Hasn't posted in a year, but makes informative pentesting videos.
 - [GuidedHacking](https://www.youtube.com/user/L4DL4D2EUROPE) - Cool channel that digs into game hacking. Ranges from using cheat engine to bypassing anti-cheat. Something for everyone.
+- [kbeckmann](https://www.youtube.com/channel/UCuDrgjmtMvmFo9BZc0e0GNQ) - Super small channel that does live streams. Started in Nov of 2020 to log his progress on hacking the Nintendo 
+Game and Watch. Hopefully he pivots and uploads more projects as well.
 - All The Cons - DEFCON, BlackHat and most other security conferences post their talks online. Even if the topics are over your head, I still recommend watching them and trying to absorb as much as you can.
 
 ### Top Content Producers:
