@@ -24,9 +24,16 @@ things I have interacted with and felt were useful.
 *This guide will be updated regularly, as I am still learning and discovering new material.* 
 LAST UPDATE: DEC 2020
 
-## Books
-Currently, I am reading "Grey Hat C#" and "Advanced Penetration Testing: Hacking the World's Most Secure Networks". Here is my running list of all-time favorites.
+What I am currently working through:
+- [pwn.college](https://pwn.college/) A course provided by ASU intended to bring you up to speed on the basics of binary exploitation. Includes video lectures, slides, and labs all for free!
+- [UC Malware Analysis](https://class.malware.re/) A course provided by UC that covers the basics of malware analysis. Again, has video lectures, slides, and labs.
+- [The Hackers Guide to Hardware Debugging: Matthew Alt](https://www.youtube.com/watch?v=hWYzgw0WhYU&ab_channel=HACKADAY) A video introduction to hardware debugging. Full of good demos.
+- [Write an NES Emulator](https://www.youtube.com/watch?v=F8kx56OZQhg&t=2s&ab_channel=javidx9) This series by javidx9 walks through the basics of building your own NES emulator. I would like to code
+my own to run ROMs on a raspberry pi. Hoping to learn more about hardware/software relationship at a low level.
 
+
+
+## Books
 ### General Pentesting
 - [The Hackers Playbook 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2) - Lays out security engagement in easy to implement 
 steps. The author provides various "plays" which are each intended to be use in certain situations one may find themselves in.
