@@ -1,4 +1,4 @@
-# Introduction:
+# IoT Horrors Pt. 1: How I Hacked A Smart Lock 
 One attack surface that has always interested me is IoT devices. I feel like there is a little something for everyone, whether you want to break out the soldering iron or Burp Suite. Recently, I decided to try my luck with a $30 dollar "smart" lock. The lock allows you to open it either through it's fingerprint sensor or a mobile application paired to it over Bluetooth. Lets just say it was way less secure than even I would have thought.
 
 ## Disclaimer:
